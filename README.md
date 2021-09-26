@@ -1,1 +1,1 @@
-# universal-space-platfrom-trajectory
+# Universal space platfrom trajectory
